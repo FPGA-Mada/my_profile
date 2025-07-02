@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nambinina Rakotojaona
+# 👋 Hi, I'm Namby
 
 I’m an embedded systems engineer and researcher specializing in **FPGA design**, **hardware description languages (HDL)**, and **Network-on-Chip (NoC)** architectures for **safety-critical and energy-efficient systems**.
 

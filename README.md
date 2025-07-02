@@ -1,4 +1,4 @@
-#  Hi, I'm Namby
+# Hi, I'm Namby 👋
 
 I’m an **embedded systems engineer and researcher** specializing in **FPGA design**, **hardware description languages (HDL)**, and **Network-on-Chip (NoC)** architectures. My passion lies in building **safety-critical, energy-efficient systems** that push the boundaries of modern hardware innovation.
 
@@ -8,7 +8,7 @@ I’m an **embedded systems engineer and researcher** specializing in **FPGA des
 
 - PhD in Electrical Engineering and Computer Science, University of Siegen, Germany  
 - FPGA Design and Verification Engineer at PLC2 Design GmbH  
-- Research interests:  
+- Research interests include:  
   - Time-Triggered NoC  
   - Energy-efficient multi-core architectures  
   - Adaptive frequency scaling  
@@ -17,7 +17,7 @@ I’m an **embedded systems engineer and researcher** specializing in **FPGA des
 
 ## 🔬 Research & Projects
 
-I work on advancing real-time, energy-aware, and reliable hardware systems by developing innovative FPGA architectures and optimizing NoC protocols for critical applications.
+I focus on advancing real-time, energy-aware, and reliable hardware systems by developing innovative FPGA architectures and optimizing NoC protocols for critical applications.
 
 ---
 
@@ -34,9 +34,4 @@ I work on advancing real-time, energy-aware, and reliable hardware systems by de
 
 ---
 
-> *“Designing energy-aware, safety-critical systems — where hardware meets real-time precision.”*
-
----
-
-Feel free to reach out or explore my work!
-
+Feel free to connect or explore my work!
